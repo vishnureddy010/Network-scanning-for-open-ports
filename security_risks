@@ -1,0 +1,9 @@
+| **Port / Service** | **Potential Security Risks**                                        |
+| ------------------ | ------------------------------------------------------------------- |
+| HTTP (80)          | Cleartext traffic, data interception, web app vulnerabilities       |
+| HTTPS (443)        | Weak TLS configuration, certificate issues, web app vulnerabilities |
+| Unknown            | Hidden/backdoor services, potential exploitation by attackers       |
+| HTTP (Alt)         | Exposed admin panels, default credentials, vulnerable web apps      |
+| AJP13              | File read or remote code execution (e.g., Ghostcat CVE-2020-1938)   |
+| HTTPS-Alt          | Misconfigured TLS, exposed admin/API interfaces                     |
+| CSListener         | Remote access exploitation, unauthorized control, malware targeting |
