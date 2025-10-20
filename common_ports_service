@@ -1,0 +1,10 @@
+    113 49157   Dynamic / Ephemeral port
+    101 5900   VNC (Virtual Network Computing)
+      8 9900  Custom / Alternate Web Service
+      8 9877  Custom Application / Proprietary Service
+      8 9593  Custom Application or Microsoft .NET Remoting
+      8 9535  Custom Application Port
+      8 9485  Custom Application Port
+      8 9010  Alternate HTTP / WebSocket Service
+      8 9002  Alternate HTTP / WebSocket / Node.js Server
+      8 8600  HashiCorp Consul DNS
